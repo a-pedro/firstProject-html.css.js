@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana, sans-serif
+    fontsize:20px;
+    
+}
+h1{
+    color:darkorange; 
+    font-size: 300%;
+}
+p {
+    color: darkgreen; 
+    font-size: 150%;
+    
+}
+div {
+    color: dodgerblue
+}
+footer {
+    color: dodgerblue; text-align: right;
+}
